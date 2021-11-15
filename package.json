@@ -1,0 +1,22 @@
+{
+  "name": "fp-ts-realworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "fp-ts": "2.8.2",
+    "fp-ts-contrib": "0.1.19",
+    "io-ts": "2.2.10",
+    "io-ts-types": "0.5.11",
+    "monocle-ts": "2.3.3",
+    "newtype-ts": "0.3.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
